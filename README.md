@@ -22,4 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayuresh2703&show_icons=true&locale=en" alt="mayuresh2703" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuresh2703&" alt="mayuresh2703" /></p>
-![](https://leetcard.jacoblin.cool/Mayuresh27?ext=activity)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Mayuresh27?font=patrick_hand)
