@@ -24,3 +24,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuresh2703&" alt="mayuresh2703" /></p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Mayuresh27?font=patrick_hand)
+[![An image of @mayuresh2703's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayuresh2703)](https://holopin.io/@mayuresh2703)
