@@ -25,5 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuresh2703&" alt="mayuresh2703" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Mayuresh27?font=patrick_hand)
+
 
